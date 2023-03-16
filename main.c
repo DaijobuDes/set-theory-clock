@@ -133,7 +133,7 @@ void draw_minute_one(int status)
 
 void draw_minute_five(int status)
 {
-	int i;
+    int i;
     printf(YEL);
     switch (status)
     {

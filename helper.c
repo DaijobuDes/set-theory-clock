@@ -24,7 +24,7 @@ void draw_square_hollow(int x1, int x2, int y1, int y2)
                 gotoxy(i, j);
                 // wprintf(L"\x2588");
                 printf("█");
-			}
+            }
             else
             {
                 gotoxy(i, j);
