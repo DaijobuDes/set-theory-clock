@@ -34,7 +34,7 @@ int main()
 
         draw_second(second % 2);
         draw_hour_five((int)(hour / 5));
-        draw_hour_one(hour % 4);
+        draw_hour_one(hour % 5);
         draw_minute_five((int)(minute / 5));
         draw_minute_one(minute % 5);
 
